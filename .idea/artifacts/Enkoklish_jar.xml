@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Enkoklish:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Enkoklish.jar">
+      <element id="module-output" name="Enkoklish" />
+      <element id="extracted-dir" path="$USER_HOME$/Music/AbsoluteLayout-RELEASE170.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Music/AbsoluteLayout-RELEASE170.jar" />
+    </root>
+  </artifact>
+</component>
